@@ -13,3 +13,7 @@ Se incluirá una serie de apuntes/torpedos para c++.
 ## ¿Puedo usar estas plantillas?
 
 Claro que puedes usar estas plantillas para programación competitiva! En caso de que consideres que hay algo que esté faltando dentro de el repositorio, me lo puedes hacer llegar a nescalanterocha@gmail.com
+
+## Sobre mí
+
+Soy estudiante de Ingeniería Matemática de la Universidad Católica del Maule. Entusiasmado con la programación competitiva y las matemáticas
